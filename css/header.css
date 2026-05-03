@@ -1,0 +1,23 @@
+#header {
+    background-color: #ffffff;
+}
+
+#header .header-nav li {
+    font-weight: 500;
+}
+
+.header-nav a:hover, .header-nav a:focus {
+    color: #404bbf;
+}
+
+.header-nav a.active {
+    color: #404bbf;
+}
+
+address a {
+    color: #434455;
+}
+
+address a:hover, address a:focus {
+    color: #404bbf;
+}
