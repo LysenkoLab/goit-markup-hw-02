@@ -13,6 +13,7 @@ body {
     color:#434455;
     line-height:1.5;
     letter-spacing: 0.02em;
+    background-color: #fff;
     }
 
 .section-title {
@@ -26,6 +27,8 @@ body {
     font-size: 20px;
     line-height: 1.2;
     font-weight: 500;
+    color:#2e2f42
+    letter-spacing: 0.02em;
 }
 
 .list {
@@ -38,6 +41,7 @@ body {
     font-weight: 700;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color; #2e2f42
 }
 
 .logo span {

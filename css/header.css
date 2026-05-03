@@ -1,8 +1,8 @@
-#header {
+.header {
     background-color: #ffffff;
 }
 
-#header .header-nav li {
+.header .header-nav li {
     font-weight: 500;
 }
 
@@ -15,7 +15,8 @@
 }
 
 address a {
-    color: #434455;
+    color: #2e2f42;
+    font-style: normal;
 }
 
 address a:hover, address a:focus {

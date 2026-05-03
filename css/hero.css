@@ -1,4 +1,4 @@
-#hero {
+.hero {
     background-color: #2e2f42
 }
 
@@ -9,15 +9,16 @@
     color: #fff;
 }
 
-#hero .button {
+.hero .button {
     letter-spacing: 0.04em;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
     background-color: #4d5ae5;
     color: #fff;
+    cursor: pointer;
 }
 
-#hero .button:hover {
+.hero .button:hover, .hero .button:focus {
     background-color: #404bbf;
 }
