@@ -6,19 +6,27 @@
     font-weight: 500;
 }
 
-.header-nav a:hover, .header-nav a:focus {
+.nav-link:hover, .nav-link:focus {
     color: #404bbf;
 }
 
-.header-nav a.active {
+.nav-link:active {
     color: #404bbf;
 }
 
-.header a {
+.nav-link {
     color: #2e2f42;
-    font-style: normal;
 }
 
-address a:hover, address a:focus {
+.contacts-link:hover, .contacts-link:focus {
     color: #404bbf;
+}
+
+.contacts-link:active {
+    color: #404bbf;
+}
+
+.contacts-link {
+    color: #434455;
+    font-style: normal;
 }
